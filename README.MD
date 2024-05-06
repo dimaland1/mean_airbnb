@@ -45,9 +45,7 @@ projet/
 └── package.json
 
 ```
-Contributions
 
-Les contributions sont les bienvenues ! Avant de commencer, veuillez ouvrir une issue pour discuter des changements proposés.
 Auteurs
 
    AZOUZOUT Jalal

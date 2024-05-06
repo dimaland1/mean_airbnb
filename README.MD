@@ -11,7 +11,7 @@ Installation
 
     Clonez ce dépôt sur votre machine locale.
     Naviguez jusqu'au répertoire du projet.
-    Exécutez ***npm install** pour installer les dépendances.
+    Exécutez npm install pour installer les dépendances.
 
 Configuration
 
@@ -20,12 +20,8 @@ Configuration
 
 Utilisation
 
-    Lancez l'application en exécutant **npm start** dans votre terminal.
+    Lancez l'application en exécutant npm start dans votre terminal.
     L'application sera disponible à l'adresse suivante : http://localhost:3000.
-
-Fonctionnalités
-
-    Liste des fonctionnalités principales de l'application.
 
 Structure du Projet
 
